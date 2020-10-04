@@ -14,8 +14,8 @@ experience and it is a lightweight chatting app for ios/android.
  
  # Tools and Technologies
  
- 1. Flutter 
- 2. Android Studio
+ 1. [Flutter](https://flutter.dev/) 
+ 2. [Android Studio](https://developer.android.com/studio)
  
  
 
